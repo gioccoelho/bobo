@@ -1,4 +1,4 @@
-module trending_repo
+module bobo
 
 go 1.22.4
 
